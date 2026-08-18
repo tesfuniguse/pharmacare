@@ -1,0 +1,6 @@
+{
+  "name": "PharmaCore - Pharmacy Store Management System",
+  "description": "Production-ready multi-branch pharmacy ERP & POS system with FEFO batch tracking, prescription dispensing, inventory valuation, financial reporting, and AI analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
